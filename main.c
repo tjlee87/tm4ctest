@@ -16,5 +16,4 @@ int main()
     GPIOF_AHB->DATA = 0<<3;     //green
     GPIOF_AHB->DATA = 1<<3;
   }
-  //return 0;
 }
